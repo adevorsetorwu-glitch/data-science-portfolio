@@ -1,4 +1,4 @@
-# COVID-19 Vaccination Dashboard
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bd02a398-96f0-451a-803d-e088c252c6ff" /># COVID-19 Vaccination Dashboard
 
 ## Overview
 
@@ -25,3 +25,5 @@ This project presents an interactive Tableau dashboard that analyzes global COVI
 * Data Visualization
 
 ## Dashboard Preview
+
+![COVID-19 Vaccination Dashboard](dashboard.png)
