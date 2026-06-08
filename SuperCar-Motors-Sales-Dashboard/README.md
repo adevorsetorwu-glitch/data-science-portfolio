@@ -7,9 +7,6 @@ This project presents an interactive Tableau dashboard designed to analyze sales
 ## Tools Used
 
 - Tableau
-- Data Visualization
-- Dashboard Design
-- Business Intelligence
 
 ## Key Features
 
