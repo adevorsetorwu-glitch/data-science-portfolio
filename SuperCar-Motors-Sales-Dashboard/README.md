@@ -29,4 +29,4 @@ This project presents an interactive Tableau dashboard designed to analyze sales
 
 ## Dashboard Preview
 
-Dashboard screenshot will be added here.
+![SuperCar Motors Dashboard](dashboard.png.png)
