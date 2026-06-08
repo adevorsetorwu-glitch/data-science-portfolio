@@ -44,4 +44,10 @@ This Tableau dashboard provides an executive-level overview of sales performance
 
 ## Dashboard Preview
 
-![Just Store Dashboard](just_store_dashboard.png)
+### Executive Dashboard
+
+![Just Store Executive Dashboard](just_store_executive_dashboard.png)
+
+### Detailed Table View
+
+![Just Store Table View](just_store_table_view.png)
