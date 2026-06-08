@@ -59,13 +59,7 @@ The analysis was performed using five MetroCar operational tables:
 These tables capture the customer journey from app download through ride completion, payment transactions, and customer feedback.
 
 ## Project Screenshots
-
-Screenshots of SQL queries and results will be added here.
-
-query1_signup_conversion.png
-query2_funnel_analysis.png
-query3_cancellation_rate.png
-query4_peak_demand.png
+Visualizations and query result screenshots are included in the project presentation file.
 
 ## Conclusion
 
