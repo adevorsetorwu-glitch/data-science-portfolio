@@ -24,4 +24,5 @@ This project presents an interactive Tableau dashboard that analyzes global COVI
 
 ## Dashboard Preview
 
-![COVID-19 Vaccination Dashboard](dashboard.png)
+![COVID-19 Vaccination Dashboard](dashboard.png.png)
+
