@@ -48,4 +48,4 @@ This Tableau dashboard provides an interactive analysis of employee attrition, r
 
 ## Dashboard Preview
 
-![HR Analytics Dashboard](HR ANALYTICS DASHBOARD.png)
+![HR Analytics Dashboard](HR%20ANALYTICS%20DASHBOARD.png)
