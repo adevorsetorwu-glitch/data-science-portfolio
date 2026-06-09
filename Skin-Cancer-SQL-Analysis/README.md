@@ -118,9 +118,37 @@ LIMIT 10;
 
 ---
 
-## Query Result Screenshots
+## Query Results Screenshots
 
-The `screenshots` folder contains SQL query outputs and dataset verification screenshots used throughout the analysis.
+### Query 1: Most Common Skin Lesion Type
+screenshots/query1_most_common_lesion.png
+
+### Query 2: Lesions by Gender
+screenshots/query2_gender_vs_diagnosis.png
+
+### Query 3: Average Age by Diagnosis
+screenshots/query3_average_age.png
+
+### Query 4: Smoking Status vs Lesion Type
+screenshots/query4_smoking_vs_lesion.png
+
+### Query 5: Pesticide Exposure vs Diagnosis
+screenshots/query5_pesticide_exposure.png
+
+### Query 6: Most Affected Body Region
+screenshots/query6_body_region.png
+
+### Query 7: Average Lesion Size by Diagnosis
+screenshots/query7_average_lesion_size.png
+
+### Query 8: Biopsy Confirmation
+screenshots/query8_biopsy_confirmation.png
+
+### ML Dataset Creation
+screenshots/ml_dataset_creation.png
+
+### ML Dataset Verification
+screenshots/ml_dataset_verification.png
 
 ---
 
