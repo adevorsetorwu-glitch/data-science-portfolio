@@ -3,6 +3,12 @@ MetroCar SQL Data Analysis Project
 Project Overview
 This project analyzes MetroCar ride-hailing data using PostgreSQL and SQL to identify insights related to customer acquisition, ride operations, revenue generation, and customer satisfaction.
 
+## Project Files
+
+- SQL Queries: metrocar_queries.sql
+- PowerPoint Presentation: MetroCar SQL slides.pptx
+- PDF Presentation: MetroCar_SQL_Analysis_Presentation.pdf
+
 Tools Used
 • PostgreSQL
 • pgAdmin 4
