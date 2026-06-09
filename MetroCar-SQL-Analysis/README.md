@@ -67,6 +67,18 @@ These tables capture the customer journey from app download through ride complet
 ## Project Screenshots
 Visualizations and query result screenshots are included in the project presentation file.
 
+## Project Files
+
+- SQL Queries: `metrocar_queries.sql`
+- PowerPoint Presentation: `MetroCar SQL slides.pptx`
+- PDF Presentation: `MetroCar_SQL_Analysis_Presentation.pdf`
+
+## Query Results Screenshots
+
+The screenshots folder contains the SQL queries and corresponding outputs used to answer the business questions.
+
+Location: `screenshots/`
+
 ## Conclusion
 
 The analysis identified opportunities to improve customer acquisition, reduce ride cancellations, increase ride completion rates, and enhance customer satisfaction. By implementing the recommended actions, MetroCar can improve operational efficiency, strengthen customer experience, and support long-term business growth.
