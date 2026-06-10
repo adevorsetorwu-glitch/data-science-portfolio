@@ -37,12 +37,26 @@ This project analyzes sales performance for Fecom Inc. using Microsoft Excel. Th
 - PrimeBuilders emerged as the top-performing salesperson.
 - Revenue showed a generally upward trend over the reporting period.
 
+## Dashboard Preview
+
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
 ## Project Files
 
 - Excel Dashboard Workbook
 - Dashboard Screenshots
 - Project Documentation
 
+## Key Findings
+
+- Total revenue generated was approximately £389K.
+- A total of 2,884 orders were processed.
+- Average order value was £135.
+- Computers & Gaming generated the highest revenue among product categories.
+- PrimeBuilders was the top-performing salesperson.
+- London recorded the highest regional sales activity.
+- Over 97% of orders were successfully delivered.
+  
 ## Author
 
 Setorwu Yaa Adevor
